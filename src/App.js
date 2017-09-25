@@ -32,8 +32,8 @@ class App extends Component {
     <Router>
       <div className="container">
        <div className="titles">
-        <Link to="/" >  GitHub Component</Link>
-        <Link to="/clockCountdown" >Clock Component</Link>
+        <Link to="/" >  GitHub </Link>
+        <Link to="/clockCountdown" >ClockCountdown</Link>
         </div>
         <Route path="/clockCountdown" render ={() =>(
           <div className="App">

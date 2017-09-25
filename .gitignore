@@ -1,6 +1,6 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
-GetUser.js
-Contributors.js
+/GetUser.js
+/Contributors.js
 # dependencies
 /node_modules
 

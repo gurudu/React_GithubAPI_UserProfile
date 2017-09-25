@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 1%;
+}
+
+.App-title{
+  font-size: 50px;
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+  display: inline;
+  margin: 10px;
+}
+ul li {
+  display: inline;
+  list-style: none;
+}
+a{
+  margin:5px;
+}
+a,a:visited{
+  color: blue;
+}
+a.active{
+  color: red;
+  border: 1px solid #000;
+}
+
+.dis{
+float: right;
+}
+.si{
+  height: auto;
+  width: auto;
+}
+
+.wid h6{
+  margin:20px;
+}
+.card-1{
+  margin-left: 100px;
+}
+.form-1{
+  margin: 10px;
+  margin-left: 300px;
+}
+.titles{
+  margin-top: 20px;
+  margin-left: 350px;
+  margin-bottom: 10px;
+}

@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import '../App.css';
+import React from 'react';
+
 
 const UserInfo = (props) => {
   const info = props.info;
